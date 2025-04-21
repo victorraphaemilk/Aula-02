@@ -15,3 +15,6 @@
 - O Flexbox é mais direto para layouts lineares (em linha ou coluna).
 - O CSS Grid permite distribuir áreas da página com maior controle sobre linhas e colunas.
 - Usar os dois juntos trouxe mais organização e clareza para diferentes níveis do layout.
+
+## 🔗 Acesse o projeto online
+[👉 Clique aqui para visualizar no GitHub Pages](https://everson715.github.io/Aula-02/)
